@@ -4,7 +4,6 @@
 This project implements a machine learning model to predict Non-Alcoholic Fatty Liver Disease (NAFLD) using the NHANES dataset.
 
 ## Features
-- End to end ML pipeline: data preprocessing, feature engineering, model training, and evaluation.
 - Uses XGBoost model optimized through Optuna for better prediction accuracy.
 - Achieved performance metrics:
   - Accuracy: 83%
